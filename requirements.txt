@@ -1,0 +1,8 @@
+Install these Below Modules (eg: 'pip install pandas')
+         1) pandas
+         2) Keras.models
+         3) Keras.layer.normalization
+         4) tensorflow
+         
+ Download this dataset from Kaggle
+              https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
